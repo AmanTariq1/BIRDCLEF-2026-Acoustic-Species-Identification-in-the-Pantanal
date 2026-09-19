@@ -136,8 +136,9 @@ birdclef-2026/
 ## 👥 Team
 
 * **Hammad Ahmed** — `2023-SE-01`
-* **Aina Yousaf** — `2023-SE-32`
 * **Aman Tariq** — `2023-SE-29`
+* **Aina Yousaf** — `2023-SE-32`
+
 
 **Submitted to:** Ahmed Khwaja
 **Kaggle Username:** `pythonophile`
